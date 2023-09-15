@@ -12,6 +12,8 @@ Install the CPU (Central Processing Unit): Align the CPU with the socket, ensuri
 
 ![OS-EX-1-Assembling-the-System---CASE STUDY](first.png)
 <br>
+<br>
+<br>
 
 ### STEP-3:
 Install the CPU Cooler: Attach the CPU cooler according to the manufacturer's instructions.
@@ -29,6 +31,8 @@ Install RAM (Random Access Memory): Align the notch on the RAM stick with the sl
 Install the GPU (Graphics Processing Unit): Align the GPU with the PCIe slot on the motherboard.
 
 ![OS-EX-1-Assembling-the-System---CASE STUDY](four.png)
+<br>
+<br>
 <br>
 
 ### STEP-6:
